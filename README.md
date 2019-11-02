@@ -1,1 +1,1 @@
-# MMM-Goldman-
+# Magic Mirror Module for Goldman Sachs Analytics 
