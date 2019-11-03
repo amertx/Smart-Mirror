@@ -1,1 +1,1 @@
-# Magic Mirror Module for Goldman Sachs Analytics 
+## Smart Mirror Module that displays routine analytics
