@@ -2,6 +2,7 @@
  * Module: MMM-Reddit
  *
  * Open Sourced from kjb085 https://github.com/kjb085/MMM-Reddit
+ * Modified by Sachin Subramanian, Amer Din, Armale Khan, Sebastian Moreno
  */
 Module.register('MMM-Reddit', {
     /**
