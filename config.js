@@ -1,6 +1,6 @@
                 /* Magic Mirror Config 
  *
- * By Sachin Subramanian, Amer Din, Sebastian Armale Khan, Sebastian Moreno
+ * By Sachin Subramanian, Amer Din, Armale Khan, Sebastian Moreno
  * 
  *
  * For more information how you can configurate this file
