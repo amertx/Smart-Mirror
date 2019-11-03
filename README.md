@@ -8,4 +8,4 @@ This project utilizes rasberry PI 3, nodeJS, and CSS technologies
 For more info [click here](https://devpost.com/software/smart-mirror-185q7v)
 
 # What's next for the smart mirror?
- Future versions of the smart mirror include adding a camera within the frame of the mirror so that when a certian user approcahes the mirror a customizes smart layout can be displayed. 
+ Future versions of the smart mirror include adding a camera within the frame of the mirror so that when a different user looks at the mirror a customized smart layout can be displayed. 
