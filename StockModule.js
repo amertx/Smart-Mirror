@@ -1,6 +1,6 @@
 /* Magic Mirror Stock Module
 *  Open Sourced from eouia https://github.com/eouia
-*
+*  Modified by Sachin Subramanian, Amer Din, Armale Khan, Sebastian Moreno
 *
 */
 
