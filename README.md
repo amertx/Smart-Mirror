@@ -1,5 +1,6 @@
 # Smart Mirror that displays routine analytics
 This project utilizes rasberry PI 3, nodeJS, and CSS technologies
+* developed during HACKTX 2019 in Austin, Texas
 
 ![Image of Display](https://github.com/amertx/Smart-Mirror/blob/master/IMG_3813.jpg)
 
